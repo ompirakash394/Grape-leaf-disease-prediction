@@ -1,1 +1,1 @@
-# Coffee-Leaf-Disease-Detection-App# Grape-leaf-disease-prediction
+# Grape-leaf-disease-prediction
